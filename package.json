@@ -1,0 +1,7 @@
+{
+    "type": "module",
+    "dependencies": {
+        "jsonfile": "^6.1.0",
+        "require": "^2.4.20"
+    }
+}
